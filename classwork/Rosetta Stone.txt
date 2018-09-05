@@ -20,3 +20,12 @@ Convert the following
 123 base eight to base 2,10,16
 1010 base sixteen to base 2,8,10
 1010 base 2 to 8,10, 16 
+
+P-Adic Numbers Represent numbers
+2's compliment  2 Bytes 1010 base 2 = 0001000000010000 ->Binary 4112 Base 10 from binary to 1's compliment the 1s changed to 0 and the 0 changed to 1
+		2 Bytes		   0001 0000 0001 0000
+		1's compliment     1110 1111 1110 1111
+		2's compliment+1-> 1110 1111 1111 0000->-4112
+		1 Bytes           0000 1010 base 2
+		1's compliment    1111 0101
+		2's compliment +1 1111 0110 
